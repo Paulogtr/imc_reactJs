@@ -1,0 +1,11 @@
+.containerInform{
+   border-top: 1px solid ;
+   padding: 5px;
+   margin-top: 2rem;
+}
+
+#usuario{
+   color: brown;
+   text-transform: uppercase;
+   font-weight: bold;
+}
